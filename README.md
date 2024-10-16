@@ -1,25 +1,33 @@
-## Hi there 👋
-Hello, World! My name is Seth Rakich and I am new to this world of software development. I am currently enrolled in the coding bootcamp Tech Elevator. 
-🔭 I’m currently working on ... all things Java!
-🌱 I’m currently learning ...inheritance
-👯 I’m looking to collaborate on ...anything that involves code!
-🤔 I’m looking for help with ...tips and tricks to improve efficiency!
-💬 Ask me about ...anything!
-📫 How to reach me: ...rakichseth@gmail.com
-😄 Pronouns: ...He, him, bruh
-⚡ Fun fact: ... I started a pest control company with my childhood bestfriend!
--->
-<!--Hello, World! My name is Seth Rakich and I am new to this world of software development. I am currently enrolled in the coding bootcamp Tech Elevator. 
-**Sethysan/SethySan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Seth Rakich
 
-Here are some ideas to get you started:
+**Software Developer | Problem Solver | Tech Enthusiast**  
+🌱 I’m passionate about building dynamic, user-friendly applications and solving complex coding challenges. My recent focus has been on developing full-stack applications using **Java**, **Spring Boot**, **Vue.js**, and **PostgreSQL**.
 
-- 🔭 I’m currently working on ... prework
-- 🌱 I’m currently learning ...gitHub
-- 👯 I’m looking to collaborate on ...java
-- 🤔 I’m looking for help with ...anything
-- 💬 Ask me about ...music and guitars
-- 📫 How to reach me: ...Seth.r.drummage@gmail.com
-- 😄 Pronouns: ...He, him, guy, dude, bruh
-- ⚡ Fun fact: ...I successfully landed the bottle flip challenge on my first try
--->
+### 🚀 Projects
+
+- **Postup**: A digital bulletin board web app for creating, viewing, and managing posts. Built with Vue.js frontend, Spring Boot backend, and PostgreSQL. [Check it out!](link-to-repo)
+- **Alcest Fan Page**: An interactive fan page where users can submit locations and access music and band info. A creative blend of **HTML**, **CSS**, **JavaScript**, and **Node.js**. [View Project](link-to-repo)
+- **Pet Adoption Shelter**: A full-stack app that manages pet adoption processes, featuring a Vue.js frontend and Spring Boot backend. [See More](link-to-repo)
+- **Vending Machine Vue.js App**: A Vue.js-based simulation of a vending machine using **Vuex** for state management. [Take a Look](link-to-repo)
+
+### 💡 What I Bring to the Table
+
+- **Full-Stack Development**: Experience in building scalable backend systems and intuitive front-end interfaces.
+- **Problem-Solving**: A knack for identifying issues and crafting efficient solutions, whether it’s debugging code or optimizing user flows.
+- **Customer-Focused Approach**: Leveraging years of experience in sales and customer service to deliver software that meets user needs.
+
+### 🛠️ Technologies & Tools
+
+- **Languages**: Java, JavaScript, SQL, HTML, CSS
+- **Frameworks**: Spring Boot, Vue.js, Express.js
+- **Databases**: PostgreSQL, MySQL
+- **Tools**: Git, VS Code, Postman, IntelliJ IDEA
+
+### 📫 Let’s Connect!
+
+- **LinkedIn**: [linkedin.com/in/sethrakich](https://www.linkedin.com/in/sethrakich)
+- **Email**: [rakichseth@gmail.com](mailto:rakichseth@gmail.com)
+
+### 🌟 Fun Fact
+
+When I’m not coding, you can find me jamming on my guitar, exploring new music, or tending to my garden with my two daughters. 🎸🌿
