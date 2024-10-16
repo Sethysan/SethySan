@@ -5,10 +5,11 @@
 
 ### 🚀 Projects
 
-- **Postup**: A digital bulletin board web app for creating, viewing, and managing posts. Built with Vue.js frontend, Spring Boot backend, and PostgreSQL. [Check it out!](link-to-repo)
-- **Alcest Fan Page**: An interactive fan page where users can submit locations and access music and band info. A creative blend of **HTML**, **CSS**, **JavaScript**, and **Node.js**. [View Project](link-to-repo)
-- **Pet Adoption Shelter**: A full-stack app that manages pet adoption processes, featuring a Vue.js frontend and Spring Boot backend. [See More](link-to-repo)
-- **Vending Machine Vue.js App**: A Vue.js-based simulation of a vending machine using **Vuex** for state management. [Take a Look](link-to-repo)
+- **Postup**: A digital bulletin board web app for creating, viewing, and managing posts. Built with Vue.js frontend, Spring Boot backend, and PostgreSQL. [Check it out!]([link-to-repo](https://github.com/Sethysan/Postup))
+- **Alcest Fan Page**: An interactive fan page where users can submit locations and access music and band info. A creative blend of **HTML**, **CSS**, **JavaScript**, and **Node.js**. [View Project]([link-to-repo](https://github.com/Sethysan/All-About-Alcest))
+- **Pet Adoption Shelter**: A full-stack app that manages pet adoption processes, featuring a Vue.js frontend and Spring Boot backend. [See More]([link-to-repo](https://github.com/Sethysan/PetAdopt))
+- **Vending Machine Vue.js App**: A Vue.js-based simulation of a vending machine using **Vuex** for state management. [Take a Look]([link-to-repo](https://github.com/Sethysan/Vending-project))
+- **TEnmo Peer-to-Peer money App**: TEnmo is an online payment service for transferring money between friends.Project includes a RESTful API server and a GUI Swing interface application. [Take a Look]([link-to-repo](https://github.com/Sethysan/Tenmo/blob/main/README.md))
 
 ### 💡 What I Bring to the Table
 
