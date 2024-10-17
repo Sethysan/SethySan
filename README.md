@@ -9,7 +9,6 @@
 - **Alcest Fan Page**: An interactive fan page where users can submit locations and access music and band info. A creative blend of **HTML**, **CSS**, **JavaScript**, and **Node.js**. [View Project](https://github.com/Sethysan/All-About-Alcest)
 - **Pet Adoption Shelter**: A full-stack app that manages pet adoption processes, featuring a Vue.js frontend and Spring Boot backend. [See More](https://github.com/Sethysan/PetAdopt)
 - **Vending Machine Vue.js App**: A Vue.js-based simulation of a vending machine using **Vuex** for state management. [Take a Look](https://github.com/Sethysan/Vending-project)
-- **TEnmo Peer-to-Peer money App**: TEnmo is an online payment service for transferring money between friends.Project includes a RESTful API server and a GUI Swing interface application. [Take a Look](https://github.com/Sethysan/Tenmo/tree/main)
 
 ### 💡 What I Bring to the Table
 
