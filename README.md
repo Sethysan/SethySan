@@ -83,9 +83,10 @@ Whether I'm troubleshooting a backend issue, improving an interface, or explorin
 
 ### 📫 Let's Connect
 
-- **LinkedIn:** [linkedin.com/in/sethrakich](https://www.linkedin.com/in/sethrakich)
-- **Email:** [rakichseth@gmail.com](mailto:rakichseth@gmail.com)
-- **GitHub:** [github.com/Sethysan](https://github.com/Sethysan)
+- **🌐 Portfolio:** [sethrakich.com](https://www.sethrakich.com/)
+- **💼 LinkedIn:** [linkedin.com/in/sethrakich](https://www.linkedin.com/in/sethrakich)
+- **📧 Email:** [rakichseth@gmail.com](mailto:rakichseth@gmail.com)
+- **💻 GitHub:** [github.com/Sethysan](https://github.com/Sethysan)
 
 ### 🎸 Beyond the Code
 
